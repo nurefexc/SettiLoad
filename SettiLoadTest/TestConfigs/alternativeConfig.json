@@ -1,0 +1,11 @@
+{
+  "Database": {
+    "ConnectionString": "Server=anotherServerAddress;Database=anotherDataBase;User Id=anotherUsername;Password=anotherPassword;",
+    "Timeout": 60
+  },
+  "Logging": {
+    "LogLevel": "Debug",
+    "LogFilePath": "/var/log/anotherapp.log"
+  },
+  "IsFeatureEnabled": false
+}

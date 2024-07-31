@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SettiLoad", "SettiLoad\SettiLoad.csproj", "{DCD3C149-3B28-4219-910C-27ED923ABCD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SettiLoadTest", "SettiLoadTest\SettiLoadTest.csproj", "{61FD25F2-AA77-4834-897F-DB22D2B762ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCD3C149-3B28-4219-910C-27ED923ABCD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD3C149-3B28-4219-910C-27ED923ABCD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD3C149-3B28-4219-910C-27ED923ABCD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD3C149-3B28-4219-910C-27ED923ABCD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61FD25F2-AA77-4834-897F-DB22D2B762ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61FD25F2-AA77-4834-897F-DB22D2B762ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61FD25F2-AA77-4834-897F-DB22D2B762ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61FD25F2-AA77-4834-897F-DB22D2B762ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

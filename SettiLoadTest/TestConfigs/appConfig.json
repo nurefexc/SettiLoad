@@ -1,0 +1,11 @@
+{
+  "Database": {
+    "ConnectionString": "Server=myServerAddress;Database=myDataBase;User Id=myUsername;Password=myPassword;",
+    "Timeout": 30
+  },
+  "Logging": {
+    "LogLevel": "Info",
+    "LogFilePath": "/var/log/app.log"
+  },
+  "IsFeatureEnabled": true
+}
