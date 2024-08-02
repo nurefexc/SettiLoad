@@ -8,9 +8,16 @@ public class AppConfig : Config
 
     public class DatabaseConfig
     {
-        public string ConnectionString { get; set; }
+        public string Server { get; set; }
+        public string DatabaseName { get; set; }
+        public string UserId { get; set; }
+        public string Password { get; set; }
+
+        public string ConnectionString =>
+            $"Server={Server};Database={DatabaseName};User Id={UserId};Password={Password};";
         public int Timeout { get; set; }
     }
+
 
     public class LoggingConfig
     {

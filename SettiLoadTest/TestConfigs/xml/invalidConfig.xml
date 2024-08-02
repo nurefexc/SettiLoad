@@ -1,0 +1,13 @@
+<AppConfig>
+    <Database>
+        <Server>myServerAddress</Server>
+        <DatabaseName>myDataBase</DatabaseName>
+        <UserId>myUsername</UserId>
+        <Password>InvalidPassword</Password>
+        <Timeout>30</Timeout>
+    </Database>
+    <Logging>
+        <LogLevel>Info</LogLevel>
+        <LogFilePath>/var/log/app.log</LogFilePath>
+    </Logging>
+    <IsFeatureEnabled>true</IsFeatureEnabled>

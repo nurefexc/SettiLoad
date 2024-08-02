@@ -1,0 +1,12 @@
+{
+  "Database": {
+    "Server": "myServerAddress",
+    "DatabaseName": "myDataBase",
+    "UserId": "myUsername",
+    "Password": "myPassword",
+    "Timeout": 30
+  },
+  "Logging": {
+  },
+  "IsFeatureEnabled": false
+}
