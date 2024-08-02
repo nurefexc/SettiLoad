@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+    <Database>
+        <Server>anotherServerAddress</Server>
+        <DatabaseName>anotherDataBase</DatabaseName>
+        <UserId>anotherUsername</UserId>
+        <Password>anotherPassword</Password>
+        <Timeout>60</Timeout>
+    </Database>
+    <Logging>
+        <LogLevel>Debug</LogLevel>
+        <LogFilePath>/var/log/anotherapp.log</LogFilePath>
+    </Logging>
+    <IsFeatureEnabled>false</IsFeatureEnabled>
+</Configuration>

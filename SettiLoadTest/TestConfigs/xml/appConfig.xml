@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppConfig>
+    <Database>
+        <Server>myServerAddress</Server>
+        <DatabaseName>myDataBase</DatabaseName>
+        <UserId>myUsername</UserId>
+        <Password>myPassword</Password>
+        <Timeout>30</Timeout>
+    </Database>
+    <Logging>
+        <LogLevel>Info</LogLevel>
+        <LogFilePath>/var/log/app.log</LogFilePath>
+    </Logging>
+    <IsFeatureEnabled>true</IsFeatureEnabled>
+</AppConfig>

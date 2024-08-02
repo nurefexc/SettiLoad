@@ -1,7 +1,0 @@
-{
-  "Database": {
-    "ConnectionString": "Server=myServerAddress;Database=myDataBase;User Id=myUsername;Password=myPassword;"
-  },
-  "Logging": {
-  }
-}

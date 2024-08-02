@@ -1,6 +1,9 @@
 {
   "Database": {
-    "ConnectionString": "Server=myServerAddress;Database=myDataBase;User Id=myUsername;Password=myPassword;",
+    "Server": "myServerAddress",
+    "DatabaseName": "myDataBase",
+    "UserId": "myUsername",
+    "Password": "InvalidPassword",
     "Timeout": 30
   },
   "Logging": {
@@ -8,4 +11,3 @@
     "LogFilePath": "/var/log/app.log"
   },
   "IsFeatureEnabled": true
-}

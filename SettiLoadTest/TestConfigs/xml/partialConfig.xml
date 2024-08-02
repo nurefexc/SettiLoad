@@ -1,0 +1,12 @@
+<AppConfig>
+    <Database>
+        <Server>myServerAddress</Server>
+        <DatabaseName>myDataBase</DatabaseName>
+        <UserId>myUsername</UserId>
+        <Password>myPassword</Password>
+        <Timeout>30</Timeout>
+    </Database>
+    <Logging>
+    </Logging>
+    <IsFeatureEnabled>false</IsFeatureEnabled>
+</AppConfig>

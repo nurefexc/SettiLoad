@@ -1,0 +1,14 @@
+<AppConfig>
+    <Database>
+        <Server>myServerAddress</Server>
+        <DatabaseName>myDataBase</DatabaseName>
+        <UserId>myUsername</UserId>
+        <Password>myPassword</Password>
+        <Timeout>45</Timeout>
+    </Database>
+    <Logging>
+        <LogLevel>Verbose</LogLevel>
+        <LogFilePath>/var/log/complex.log</LogFilePath>
+    </Logging>
+    <IsFeatureEnabled>true</IsFeatureEnabled>
+</AppConfig>

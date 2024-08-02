@@ -1,6 +1,9 @@
 {
   "Database": {
-    "ConnectionString": "Server=anotherServerAddress;Database=anotherDataBase;User Id=anotherUsername;Password=anotherPassword;",
+    "Server": "anotherServerAddress",
+    "DatabaseName": "anotherDataBase",
+    "UserId": "anotherUsername",
+    "Password": "anotherPassword",
     "Timeout": 60
   },
   "Logging": {
